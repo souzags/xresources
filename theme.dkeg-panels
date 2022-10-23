@@ -1,0 +1,58 @@
+! DKEG - Panels palette (from terminal.sexy)
+
+#define cfg #d3d3d3
+#define cbg #000000
+#define csr #d3d3d3
+#define c00 #191927
+#define c08 #905794
+#define c01 #282f5e
+#define c09 #94431c
+#define c02 #2b4593
+#define c10 #9f582a
+#define c03 #344276
+#define c11 #a38687
+#define c04 #4e3a4f
+#define c12 #e1750f
+#define c05 #61372f
+#define c13 #eaaf25
+#define c06 #6b484c
+#define c14 #fa8e08
+#define c07 #744537
+#define c15 #fca806
+
+! special
+*.foreground:   cfg
+*.background:   cbg
+*.cursorColor:  crs
+
+! black
+*.color0:       c00
+*.color8:       c08
+
+! red
+*.color1:       c01
+*.color9:       c09
+
+! green
+*.color2:       c02
+*.color10:      c10
+
+! yellow
+*.color3:       c03
+*.color11:      c11
+
+! blue
+*.color4:       c04
+*.color12:      c12
+
+! magenta
+*.color5:       c05
+*.color13:      c13
+
+! cyan
+*.color6:       c06
+*.color14:      c14
+
+! white
+*.color7:       c07
+*.color15:      c15

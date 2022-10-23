@@ -1,0 +1,19 @@
+! Font configuration
+
+URxvt.font:             xft:Hurmit Nerd Font:size=10, style=medium
+URxvt.letterSpace:      0
+
+! Scrollbar configuration
+
+URxvt.scrollBar:        false
+
+! Transparency
+
+URxvt.depth:            32
+URxvt.background:       [98]cbg
+
+! Perl extensions
+! Leave empty to disable all
+
+URxvt.perl-ext:         
+URxvt.perl-ext-common:  
