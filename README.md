@@ -1,0 +1,2 @@
+# xresources
+X resources dotfiles
